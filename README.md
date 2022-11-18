@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tom-corley
-- 👀 I’m interested in Mathematical Finance, and gaining technical skills in order to become a Quantative Analyst.
+- 👀 I’m interested in Mathematical Finance, Software Engineering and Data Science.
 - 🌱 I’m currently learning to use a variety of Python packages to improve my versatility with the language.
 - 📫 How to reach me: I can be emailed on tomcorley86@gmail.com
