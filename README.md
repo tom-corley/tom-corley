@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Tom Corley  
 
-🎓 **Mathematics Graduate** from the University of Warwick | 💻 **Aspiring Software Engineer**  
+🎓 **Mathematics Graduate** from the University of Warwick | 💻 **Software Engineer**  
 
 ---
 
