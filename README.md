@@ -24,7 +24,8 @@
 ---
 
 ## 📊 My GitHub at a Glance
-[![Top Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-corley&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tom-corley)
+![Top Langs by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tom-corley)
 
 ---
 
