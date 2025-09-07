@@ -24,7 +24,7 @@
 ---
 
 ## 📊 My GitHub at a Glance
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-corley&layout=pie)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-corley&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
