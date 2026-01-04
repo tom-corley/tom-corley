@@ -6,9 +6,8 @@
 
 ## 👨‍💻 About Me
 
-- Recently graduated with a first-class **Master's in Mathematics** from the University of Warwick.
-- Currently training with **La Fosse Academy** for a Software Engineering role at the **Houses of Parliament**.
-- Always curious and constantly learning — right now I’m sharpening my **React**, and consolidating my DSA skills for interviews.
+- Currently working as a Software Engineer at Worldover
+- Graduated last summer with a first-class **Master's in Mathematics** from the University of Warwick.
 
 ---
 
