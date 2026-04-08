@@ -1,27 +1,43 @@
 # Hi there 👋 I'm Tom Corley
 
-🎓 **Mathematics Graduate** from the University of Warwick | 💻 **Software Engineer**
+🎓 **First Class MMath** from the University of Warwick | 💻 **Software Engineer** at Worldover
 
 ---
 
 ## 👨‍💻 About Me
 
-- Currently working as a Software Engineer at Worldover
-- Graduated last summer with a first-class **Master's in Mathematics** from the University of Warwick.
+- Software Engineer at **Worldover** in London — shipped 110+ PRs across feature delivery, infrastructure, and AI tooling
+- First Class **Master of Mathematics** from the University of Warwick, with an Erasmus year at LMU München
+- Set the **programme-record score** (199/200) at the La Fosse software engineering academy
+- 70-page Master's thesis on Hamiltonian Cycles in Cayley Graphs
 
 ---
 
-## 🛠️ Tech Interests
+## 🛠️ Tech Stack
 
-- **Languages**: C, C#, Python, JavaScript/TypeScript, SQL
-- **Frameworks**: React, Express, .NET
-- **Other Tools**: Git, Docker, Trello, Figma, AWS (2x Certified)
+- **Languages**: TypeScript/JavaScript, Python, C#/.NET, SQL, Gremlin, C
+- **Frontend**: React, HTML/CSS
+- **Backend**: Node.js, Express, tRPC, Zod, ASP.NET, EF Core
+- **Cloud & DevOps**: AWS (Neptune, Lambda, S3, CloudWatch, SES, EventBridge, AppConfig, Amplify, OpenSearch), Docker, GitHub Actions
+- **Databases**: Neptune (graph), PostgreSQL/PostGIS, OpenSearch, SQLite
+- **Testing**: Jest, Cypress, Playwright, NUnit
 
 ---
 
-## 🌱 What I’m Working on at the Moment
+## 📜 Certifications
 
-- 📘 Building a map-based mobile/web app with React and React-Native web and mobile frontends, and a layered .NET backend
+- AWS Certified Developer — Associate
+- AWS Certified AI Practitioner
+- AWS Certified Cloud Practitioner
+- PCAP — Python Certified Associate Programmer
+
+---
+
+## 🌱 What I'm Working On
+
+- Building internal AI tooling and agent skills at Worldover
+- Strengthening AWS infrastructure and observability
+- Personal projects in TypeScript/React and high-performance computing (C, OpenMP, MPI)
 
 ---
 
@@ -34,9 +50,6 @@
 
 ## 📫 Get in Touch
 
-- Email: **tomcorley86@gmail.com**
-- LinkedIn: [tom-corley](https://www.linkedin.com/in/tom-corley/)
-
----
-
-✨ *“Mathematics gave me the tools to think abstractly and solve complex problems; software engineering gives me the canvas to do so in a real-world context.”*
+- 🌐 Portfolio: [tom-corley.github.io](https://tom-corley.github.io)
+- 💼 LinkedIn: [tom-corley](https://www.linkedin.com/in/tom-corley/)
+- ✉️ Email: **tomcorley86@gmail.com**
