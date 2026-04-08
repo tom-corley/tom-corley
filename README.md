@@ -35,9 +35,8 @@
 
 ## 🌱 What I'm Working On
 
-- Building internal AI tooling and agent skills at Worldover
-- Strengthening AWS infrastructure and observability
-- Personal projects in TypeScript/React and high-performance computing (C, OpenMP, MPI)
+- Learning **Spring Boot** (Java)
+- Working towards **AWS Machine Learning Engineer** certification
 
 ---
 
