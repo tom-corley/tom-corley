@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Tom Corley
 
-🎓 **First Class MMath** from the University of Warwick | 💻 **Software Engineer** at Worldover
+💻 **Software Engineer** at Worldover | 🎓 **First Class MMath** from the University of Warwick
 
 ---
 
