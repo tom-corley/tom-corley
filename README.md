@@ -1,12 +1,12 @@
 # Hi there 👋 I'm Tom Corley
 
-💻 **Software Engineer** at Worldover | 🎓 **First Class MMath** from the University of Warwick
+💻 **Software Engineer** at Listing Monster AI | 🎓 **First Class MMath** from the University of Warwick
 
 ---
 
 ## 👨‍💻 About Me
 
-- Software Engineer at **Worldover** in London — shipped 110+ PRs across feature delivery, infrastructure, and AI tooling
+- Software Engineer at **Listing Monster AI** in London — shipped 110+ PRs across feature delivery, infrastructure, and AI tooling
 - First Class **Master of Mathematics** from the University of Warwick, with an Erasmus year at LMU München
 - Set the **programme-record score** (199/200) at the La Fosse software engineering academy
 - 70-page Master's thesis on Hamiltonian Cycles in Cayley Graphs
