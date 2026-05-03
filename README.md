@@ -49,6 +49,5 @@
 
 ## 📫 Get in Touch
 
-- 🌐 Portfolio: [tom-corley.github.io](https://tom-corley.github.io)
 - 💼 LinkedIn: [tom-corley](https://www.linkedin.com/in/tom-corley/)
 - ✉️ Email: **tomcorley86@gmail.com**
