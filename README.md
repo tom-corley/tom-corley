@@ -42,8 +42,8 @@
 
 ## 📊 My GitHub at a Glance
 
-![Top Langs by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tom-corley)
-![Top Langs by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tom-corley)
+![Top Langs by Repo](https://raw.githubusercontent.com/tom-corley/tom-corley/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![Top Langs by Commit](https://raw.githubusercontent.com/tom-corley/tom-corley/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
 
 ---
 
